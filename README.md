@@ -1,7 +1,7 @@
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 ## Cheers! I'm Andre, a fullstack web dev 👋
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/andre-wruszczak-82206a67/) :)
 
 ### 🔭 I’m currently working with: 
 
