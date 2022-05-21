@@ -56,7 +56,7 @@ Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/andre-wruszcza
 
 <hr/>
 
-### 💕 I love : 
+### 💕 I also love : 
 
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
